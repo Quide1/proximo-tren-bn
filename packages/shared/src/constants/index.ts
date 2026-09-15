@@ -1,0 +1,27 @@
+// constants/index.ts
+export const ESTACIONES_BELGRANO_NORTE = [
+	"Retiro",
+	"Saldías",
+	"Ciudad Universitaria",
+	"Aristóbulo del Valle",
+	"M. M. Padilla",
+	"Florida",
+	"Munro",
+	"Carapachay",
+	"Villa Adelina",
+	"Boulogne",
+	"Vice Alte. Montes",
+	"Don Torcuato",
+	"A. Sourdeaux",
+	"Villa de Mayo",
+	"Los Polvorines",
+	"Pablo Nogués",
+	"Grand Bourg",
+	"Tierras Altas",
+	"Tortuguitas",
+	"Manuel Alberti",
+	"Del Viso",
+	"Cecilia Grierson",
+	"Villa Rosa",
+] as const;
+
